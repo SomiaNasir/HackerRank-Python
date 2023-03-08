@@ -4,7 +4,7 @@ My profile : [Somia Nasir](https://www.hackerrank.com/somianasir54)
 
 |Challenge|Solution|Difficulty|Subdomain|
 |---------|--------|----------|---------|
-|[Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem)|[py-hello-world.py](https://github.com/SomiaNasir/HackerRank/blob/main/Python/01.%20Introduction/001.%20py-hello-world.py)|Easy|Introduction|
+|[Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem)|[py-hello-world.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/01.%20Introduction/001.%20py-hello-world.py)|Easy|Introduction|
 |[Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)|[python-arithmetic-operators.py](https://github.com/SomiaNasir/HackerRank/blob/main/Python/01.%20Introduction/002.%20python-arithmetic-operators.py)|Easy|Introduction|
 |[Python: Division](https://www.hackerrank.com/challenges/python-division/problem)|[python-division.py](https://github.com/SomiaNasir/HackerRank/blob/main/Python/01.%20Introduction/003.%20python-division.py)|Easy|Introduction|
 |[Loops](https://www.hackerrank.com/challenges/python-loops/problem)|[python-loops.py](https://github.com/SomiaNasir/HackerRank/blob/main/Python/01.%20Introduction/004.%20python-loops.py)|Easy|Introduction|
