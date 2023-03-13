@@ -19,4 +19,7 @@ My profile : [Somia Nasir](https://www.hackerrank.com/somianasir54)
 |[List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)|[list-comprehensions.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/02.%20Basic%20Data%20Types/001.%20list-comprehensions.py)|Easy|
 |[Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)|[find-second-maximum-number-in-a-list.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/02.%20Basic%20Data%20Types/002.%20find-second-maximum-number-in-a-list.py)|Easy|
 |[Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)|[nested-list.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/02.%20Basic%20Data%20Types/003.%20nested-list.py)|Easy|
+|[Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)|[finding-the-percentage.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/02.%20Basic%20Data%20Types/004.%20finding-the-percentage.py)|Easy|
+|[Lists](https://www.hackerrank.com/challenges/python-lists/problem)|[python-lists.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/02.%20Basic%20Data%20Types/005.%20python-lists.py)|Easy|
+|[Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)|[python-tuples.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/02.%20Basic%20Data%20Types/006.%20python-tuples.py)|Easy|
 
