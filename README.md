@@ -23,3 +23,12 @@ My profile : [Somia Nasir](https://www.hackerrank.com/somianasir54)
 |[Lists](https://www.hackerrank.com/challenges/python-lists/problem)|[python-lists.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/02.%20Basic%20Data%20Types/005.%20python-lists.py)|Easy|
 |[Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)|[python-tuples.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/02.%20Basic%20Data%20Types/006.%20python-tuples.py)|Easy|
 
+## [Strings](https://github.com/SomiaNasir/HackerRank-Python/tree/main/03.%20Strings)
+
+|Challenge|Solution|Difficulty|
+|---------|--------|----------|
+|[sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)|[swap-case.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/03.%20Strings/001.%20swap-case.py)|Easy|
+|[String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)|[python-string-split-and-join.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/03.%20Strings/002.%20python-string-split-and-join.py)|Easy|
+|[What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)|[whats-your-name.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/03.%20Strings/003.%20whats-your-name.py)|Easy|
+|[Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)|[python-mutations.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/03.%20Strings/004.%20python-mutations.py)|Easy|
+|[Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)|[find-a-string.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/03.%20Strings/005.%20find-a-string.py)|Easy|
