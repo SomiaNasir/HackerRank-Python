@@ -32,3 +32,5 @@ My profile : [Somia Nasir](https://www.hackerrank.com/somianasir54)
 |[What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)|[whats-your-name.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/03.%20Strings/003.%20whats-your-name.py)|Easy|
 |[Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)|[python-mutations.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/03.%20Strings/004.%20python-mutations.py)|Easy|
 |[Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)|[find-a-string.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/03.%20Strings/005.%20find-a-string.py)|Easy|
+|[String Validators](https://www.hackerrank.com/challenges/string-validators/problem)|[string-validators.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/03.%20Strings/006.%20string-validators.py)|Easy|
+|[Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)|[text-alignment.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/03.%20Strings/007.%20text-alignment.py)|Easy|
