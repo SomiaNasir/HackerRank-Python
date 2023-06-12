@@ -35,4 +35,6 @@ My HackerRank profile : [Somia Nasir](https://www.hackerrank.com/somianasir54)
 |[String Validators](https://www.hackerrank.com/challenges/string-validators/problem)|[string-validators.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/03.%20Strings/006.%20string-validators.py)|Easy|
 |[Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)|[text-alignment.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/03.%20Strings/007.%20text-alignment.py)|Easy|
 |[Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)|[text-wrap.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/03.%20Strings/008.%20text-wrap.py)|Easy|
-|[Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)|[designer-door-mat.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/03.%20Strings/009.%20designer-door-mat.py)|Easy|
+|[Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)|[designer-door-mat.py](https://github.com/SomiaNasir/HackerRank-Python/blob/main/03.%20Strings/009.%20designer-door-mat.py)|Easy|  
+
+to be continued ...
